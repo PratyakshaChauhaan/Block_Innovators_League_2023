@@ -1,0 +1,27 @@
+body
+{
+    background-color: lavender;
+}
+
+#si
+{
+    margin-left: 20px;
+    color: rgb(4, 105, 105);
+}
+
+#sq
+{
+    margin-left: 20px;
+}
+
+center
+{
+    color: rgb(29, 26, 219);
+}
+#to_back
+{
+    margin-left: 1400px;
+    height: 30px;
+    width: 70px;
+    background-color: rgb(147, 64, 64);
+}

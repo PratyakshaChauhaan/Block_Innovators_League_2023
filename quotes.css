@@ -1,0 +1,42 @@
+body
+{
+ background-color: lavender;
+}
+
+#img1
+{
+    height: 300px;
+    width: 600px;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+#img2
+{
+    height: 300px;
+    width: 600px;
+    margin-left: 850px;
+    margin-top: 25px;
+}
+
+#img3
+{
+    height: 300px;
+    width: 600px;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+#cont
+{
+    margin-left: 1350px;
+    height: 50px;
+    background-color: lightskyblue;
+}
+#to_back
+{
+    margin-left: 1400px;
+    height: 30px;
+    width: 70px;
+    background-color: rgb(147, 64, 64);
+}
